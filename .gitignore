@@ -1,0 +1,14 @@
+# Arduino / local build products
+*.bin
+*.elf
+*.uf2
+*.hex
+*.map
+*.o
+*.d
+*.log
+.DS_Store
+.vscode/
+.idea/
+build/
+.pio/
